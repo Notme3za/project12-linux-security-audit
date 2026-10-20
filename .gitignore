@@ -1,0 +1,7 @@
+# Local logs, reports, and transient output
+lynis.log
+lynis-report.dat
+lynis-*.log
+*.pcap
+*.sqlite
+
